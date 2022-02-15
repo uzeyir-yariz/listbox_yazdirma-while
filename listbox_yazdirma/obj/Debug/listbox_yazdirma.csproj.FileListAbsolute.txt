@@ -1,0 +1,9 @@
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\bin\Debug\listbox_yazdirma.exe.config
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\bin\Debug\listbox_yazdirma.exe
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\bin\Debug\listbox_yazdirma.pdb
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\obj\Debug\listbox_yazdirma.csprojResolveAssemblyReference.cache
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\obj\Debug\listbox_yazdirma.Form1.resources
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\obj\Debug\listbox_yazdirma.Properties.Resources.resources
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\obj\Debug\listbox_yazdirma.csproj.GenerateResource.Cache
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\obj\Debug\listbox_yazdirma.exe
+C:\Users\Lab1\Desktop\ödev\listbox_yazdirma\listbox_yazdirma\obj\Debug\listbox_yazdirma.pdb
